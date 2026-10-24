@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me  
 
-💡 I’m a **Senior Software Engineer** with **9+ years of experience** in building scalable and resilient systems using **Spring Boot**, **React**, and **microservices architecture**.  
+💡 I’m a **Senior Software Engineer** with **10+ years of experience** in building scalable and resilient systems using **Spring Boot**, **React**, and **microservices architecture**.  
 💬 Passionate about solving complex backend problems, optimizing distributed systems, and mentoring developers.  
 🌍 Based in **Bengaluru, India**.  
 ⚡ Motto: *“Code. Refactor. Automate. Repeat.”*
